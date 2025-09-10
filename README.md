@@ -9,7 +9,7 @@ A simple Java-based farm simulation that manages animals, feeding, and resource 
 - Load farm summary
 
 # How to run
-1. Open the project in your preferred Java IDE (IntelliJ, Eclipse, or VS Code).
+1. Open the zip file and place the src file in your preferred Java IDE (IntelliJ, Eclipse, or VS Code).
 2. Run the `FarmTest.java` file in the `P4` package. This will:
    - Load or initialize farm data
    - Demonstrate adding, cloning, and removing animals
